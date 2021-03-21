@@ -1,0 +1,8 @@
+.footer {
+  background-color: #959595;
+  height: 60px;
+  bottom: 0;
+  line-height: 60px;
+  width: 100%;
+  position: absolute;
+}
